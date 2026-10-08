@@ -1,0 +1,16 @@
+.tarjeta{
+    width: 300px;
+    padding: 20px;
+    margin: 30px auto;
+    background-color: rgba(1, 51, 53, 0.864);
+    border: 2px solid #ddd;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0 ,0 ,0.2 );
+    text-align: center;
+    list-style: none;
+}
+
+.tarjeta2{
+    list-style: none;
+    
+}
