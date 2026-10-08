@@ -8,11 +8,12 @@ import { Component } from '@angular/core';
 })
 export class Home {
 
-  name:string = 'Juana';
-  lastName:string = 'Cristobal';
+  name:string = 'Tupac';
+  lastName:string = 'shakur';
   age: number = 25;
-  gender: string = 'female';
-  isDancer: boolean = true; 
+  gender: string = 'male';
+  isSinger: boolean = true; 
+ 
 
 
 
